@@ -43,6 +43,6 @@ To use Py6S you will also need to compile and install the 6S executable. Please 
 Py6S was described in a `journal article <https://py6s.readthedocs.org/en/latest/publications.html>`_ which should be referenced if Py6S is used for producing outputs for a scientific report/publication.
 
 This project was written as part of my PhD at the University of Southampton. The code is open-source,
-released under the LGPL license, and is available at `Github <http://github.com/robintw/py6s>`_.
+released under the GNU General Public License - version 3 (GPLv3), and is available at `Github <http://github.com/robintw/py6s>`_.
 
 I'm very interested in receiving feedback, bug reports and feature suggestions, so please email me at robin@rtwilson.com.
